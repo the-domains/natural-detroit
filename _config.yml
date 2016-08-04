@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.3709196043200791
 name: natural detroit
+navigation:
+  - name: Projects
+    id: 70a3a49c-acb6-4542-8e89-647ee77fbe0c
+    type: content
 title: Test My Site
 description: what the...
