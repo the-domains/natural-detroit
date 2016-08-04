@@ -1,0 +1,14 @@
+layout_spectrum: 0.3709196043200791
+typography_spectrum: 0.5606563563924283
+color:
+  brandStrength: 0.6880171333905309
+  lightness: 0.8580639015417546
+  saturation: 0.06055686087347567
+  rhythmicContrast: 0.8962375011760741
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+name: natural detroit
