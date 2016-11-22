@@ -1,20 +1,57 @@
-typography_spectrum: 0.5606563563924283
+typography_spectrum: 0.5659574
 color:
-  brandStrength: 0.6880171333905309
-  lightness: 0.8580639015417546
-  saturation: 0.06055686087347567
-  rhythmicContrast: 0.8962375011760741
+  saturation: 0.9415264082801444
+  brandStrength: 0.9
+  lightness: 0.2287258054386124
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.3709196043200791
-name: natural detroit
+    - '#F7F7F5'
+    - '#C1C4CB'
+    - '#75A3BB'
+    - '#888A73'
+    - '#5A5B56'
+  rhythmicContrast: 0.7394564295936339
+github: true
+layout_spectrum: 1
+author:
+  email: info@outsidepartnership.com
+logo: null
+name: 'op detroit natural '
 navigation:
-  - name: Projects
-    id: 70a3a49c-acb6-4542-8e89-647ee77fbe0c
+  - name: biography
+    id: 41390eea-770b-4065-9ba5-0ddfeff67278
     type: content
-title: Test My Site
-description: what the...
+  - name: inspiration
+    id: be4114dc-ed77-448a-a80c-d9c536adb45b
+    type: content
+  - name: images
+    id: f56f1861-8ddc-4bdd-839b-aaf70aa4f52c
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77bd36f9-9baf-44e6-a754-e97f4f2d71ac.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Outside Partnership
+content: []
+description: >-
+  Landscape architecture committed to revitalizing Detroit and enhancing our
+  quality of life.  We offer design and project management services for
+  government agencies, land conservancies and non-profits. Our strengths include
+  design and management of complex, fast-track projects that require
+  interdisciplinary cooperation and consensus building. 
+purpose:
+  - type: contact
+    url: 'mailto:info@outsidepartnership.com'
+    label: email
+  - type: contact
+    url: 'tel:313.887.4080'
+    label: speak
